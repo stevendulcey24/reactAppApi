@@ -1,0 +1,50 @@
+p {
+    margin: 0;
+    
+       
+    
+}
+
+
+.Card {
+    background: rgb(5, 190, 222);
+    border-radius: 12px;
+        
+    
+}
+
+
+.Card__img {
+    text-align: center;
+}
+
+.Card__types {
+    display: flex;
+    justify-content: center;    
+}
+
+.Card__type {
+    padding: 8px 14px;
+    margin: 12px 12px 12px 0;
+    border-radius: 6px;
+    background: cyan;
+    color: rgb(6, 6, 6);
+}
+
+.Card__name {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+
+.Card__info {
+    margin-left: 12px;
+}
+
+.Card__data {
+    padding-bottom: 12px;
+}
+
+.Card__data .title {
+    font-weight: 700;
+}
