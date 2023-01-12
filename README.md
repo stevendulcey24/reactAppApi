@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-**bold text** Technologies used were React, Javascript, CSS
+**Technologies** used were React, Javascript, CSS
 ---
 I decided to use a Pokemon API
 ![Alt img](API.png)
